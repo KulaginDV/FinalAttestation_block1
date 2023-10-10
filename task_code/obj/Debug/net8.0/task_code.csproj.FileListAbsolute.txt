@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\obj\Debug\net8.0\task_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\obj\Debug\net8.0\task_code.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\obj\Debug\net8.0\task_code.AssemblyInfo.cs
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\obj\Debug\net8.0\task_code.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\bin\Debug\net8.0\task_code.exe
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\bin\Debug\net8.0\task_code.deps.json
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\bin\Debug\net8.0\task_code.runtimeconfig.json
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\bin\Debug\net8.0\task_code.dll
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\bin\Debug\net8.0\task_code.pdb
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\obj\Debug\net8.0\task_code.dll
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\obj\Debug\net8.0\refint\task_code.dll
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\obj\Debug\net8.0\task_code.pdb
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\obj\Debug\net8.0\task_code.genruntimeconfig.cache
+C:\Users\User\Desktop\Разработчик Дима\Общий курс\FinalAttestation\task_code\obj\Debug\net8.0\ref\task_code.dll
